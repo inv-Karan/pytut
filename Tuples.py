@@ -1,0 +1,6 @@
+t = ("one",2,'T')
+print(type(t))
+print(len(t))
+print(t[0], t[-2])
+print(t.count())
+print(t.index(2))
